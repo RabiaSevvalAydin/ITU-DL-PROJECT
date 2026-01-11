@@ -2,14 +2,6 @@
 ---
 This repository contains the code, experiments, and report of course project of Deep Learning (BLG561E) course at Istanbul Technical University. The project builds upon YOLO-World, a real-time open-vocabulary object detector, and investigates how vocabulary construction and prompting strategies affect detection performance.
 
-## References
-This project builds upon:
-- YOLO-World: Real-Time Open-Vocabulary Object Detection
-- Vision–language models such as CLIP
-- Large-vocabulary datasets such as LVIS
-
-Full references are provided in the report.
-
 ## Disclaimer
 
 This repository is an academic course project and does not claim ownership of the YOLO-World model, codebase, or original methodology. All core model architectures, training procedures, and implementation details belong to the original authors of **YOLO-World: Real-Time Open-Vocabulary Object Detection**.
