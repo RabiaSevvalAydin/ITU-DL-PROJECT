@@ -1,0 +1,24 @@
+name: dl-improved-env
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pytorch==2.3.0
+  - torchvision==0.18.0
+  - torchaudio==2.3.0
+  - pytorch-cuda=12.1
+  - pip
+  - pip:
+      - opencv-python==4.9.0.80
+      - opencv-python-headless==4.2.0.34
+      - mmcv==2.0.0
+      - mmdet==3.0.0
+      - mmengine==0.10.3
+      - mmyolo==0.6.0
+      - timm==0.6.13
+      - transformers==4.36.2
+      - albumentations
