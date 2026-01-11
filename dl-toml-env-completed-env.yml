@@ -1,0 +1,4 @@
+name: dl-toml-env
+channels:
+  - defaults
+prefix: C:\Users\rabia\miniconda3\envs\dl-toml-env
