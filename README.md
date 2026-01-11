@@ -1,5 +1,6 @@
 # Improving Accuracy in Open-Vocabulary Object Detection
 This repository contains the code, experiments, and report for a course project on open-vocabulary object detection for Deep Learning course at Istanbul Technical University. 
+Paper : YOLO-World: Real-Time Open-Vocabulary Object Detection from CVPR-2024
 
 ## Disclaimer
 This project is an academic course project and does not claim ownership of the YOLO-World model, codebase, or original methodology. All core model architectures, training procedures, and implementation details belong to the original authors of **YOLO-World: Real-Time Open-Vocabulary Object Detection**.
